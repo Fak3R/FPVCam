@@ -13,7 +13,7 @@ A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with
    - Get the `FKR-CamFPV.dll` file from the [releases](https://github.com/FPVCam/releases)
 
 2. **Install**:
-   - Copy `DroneFPVCam.dll` to:
+   - Copy `FKR-CamFPV.dll` to:
      ```
      Kino/mods/
      ```
