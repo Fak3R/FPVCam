@@ -10,7 +10,7 @@ A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with
 ## 📦 Installation
 
 1. **Download**:
-   - Get the `FKR-CamFPV.dll` file from the [releases](https://github.com/FPVCam/releases)
+   - Get the `FKR-CamFPV.dll` file from the [releases](https://github.com/Fak3R/FPVCam/releases)
 
 2. **Install**:
    - Copy `FKR-CamFPV.dll` to:
@@ -34,7 +34,6 @@ A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with
   - **FOV**
   - **Pitch**
 - Return to player view with `Back to Player`
-- Close the settings menu with `Close`
 
 ---
 
@@ -47,7 +46,7 @@ A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with
 
 ## 👤 Author
 
-Mod created by [`xfak3r`](https://github.com/xfak3r)  
+Mod created by [`fak3r`](https://github.com/fak3r)  
 Contact: `discord xfak3r`
 
 ---
