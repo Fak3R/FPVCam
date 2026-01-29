@@ -10,23 +10,25 @@ A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with
 ## 📦 Installation
 
 1. **Download**:
-   - Get the `FKR-CamFPV.dll` file from the [releases](https://github.com/Fak3R/FPVCam/releases)
+   - Get the `FPVTools` file from the [releases](https://github.com/Fak3R/FPVCam/releases)
 
 2. **Install**:
-   - Copy `FKR-CamFPV.dll` to:
+   - Copy `FPVTools.ksm` to:
      ```
      Kino/mods/
      ```
 
 3. **Launch the game**:
    - Start the game normally
-   - Press `F6` at any time to open the mod menu
+   - Press `F9` at any time to open the mod menu (you can change it from f6->FPVtools)
 
 ---
 
 ## 🎮 How to Use
 
-- Open the menu with `F6`
+- Open the menu with `F9`
+  Config keys
+Spectate:
 - Click `Reload Drones` to detect active drones in the scene
 - Select one and click `Spectate` to follow it in third-person
 - You can adjust:
