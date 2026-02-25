@@ -3,7 +3,8 @@
 A mod to spectate any active drone in CarX Drift racing online ft. **Kino** with a free-follow camera, adjustable menu, and third-person FPV view.
 
 <p align="center">
-  <img src="https://i.imgur.com/adVuFOE.png" width="600" alt="Drone Spectator Menu">
+  <img src="https://i.imgur.com/fXPIeHi_d.webp?maxwidth=760&fidelity=grand" width="600" alt="Drone Spectator Menu">
+  <img src="https://i.imgur.com/J4p4ecE_d.webp?maxwidth=760&fidelity=grand" width="600" alt="Drone Spectator Menu">
 </p>
 ---
 
