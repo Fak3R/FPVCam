@@ -1,6 +1,6 @@
 {
   "id": 4,
-  "title": "<color=#ff3b22>Update</color>",
-  "body": "<size=80%><b>What's New?:</b></size>\n<size=80%>✅Added Smoothing system for camera</size>\n<size=80%>Three configurable sliders in the menu:</size>\n <size=70%>>Position: Positional movement smoothing\n >Rotation: Rotation/orientation smoothing\n >Snap to Object: Auto-adjustment to selected object</size>\n<color=#c7c7c7><size=50%><i>⚠️Note: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.</i></size>\n</color>\n<size=80%>✅ This fancy notification system</size>\n<size=70%>Only to notify of important changes.</size>",
+  "title": "<color=#ff3b22>FPVTools Updated!</color>",
+  "body": "<size=80%><b>What's New on 2.0.3?</b></size>\n<size=80%>✅Added Smoothing system for camera</size>\n<size=80%>Three configurable sliders in the menu:</size>\n <size=65%>>Position: Positional movement smoothing\n >Rotation: Rotation/orientation smoothing\n >Snap to Object: Auto-adjustment to selected object</size>\n<color=#c7c7c7><size=50%><i>⚠️Note: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.</i></size>\n</color><size=80%>✅ This fancy notification system</size>\n<size=65%> >Only to notify of important changes.</size>",
   "date": "2026-03-02"
 }
