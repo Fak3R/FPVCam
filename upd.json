@@ -1,6 +1,6 @@
 {
-  "id": 1,
-  "title": "FPVTools Updated!",
-  "body": "What's New?:\n Added Smoothing system for camera\n  -Three configurable sliders in the menu:\n  -Position: Positional movement smoothing\n  -Rotation: Rotation/orientation smoothing\n  -Snap to Object: Auto-adjustment to selected object /n /nNote: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.",
+  "id": 2,
+  "title": "<color=red>test color</color>",
+  "body": "🆕What's New?:\n\n✅Added Smoothing system for camera\nThree configurable sliders in the menu:\n • Position: Positional movement smoothing\n -Rotation: Rotation/orientation smoothing\n -Snap to Object: Auto-adjustment to selected object\n\n⚠️Note: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.\n<color=red>test color</color>\n<color=E83310>test color</color>\n<gradient=\"Yellow to Orange - Vertical\">test gradient</gradient>",
   "date": "2026-03-02"
 }
