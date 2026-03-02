@@ -1,6 +1,6 @@
 {
   "id": 1,
   "title": "FPVTools Updated!",
-  "body": "What's New?:\n- Smooting camera\n- Notify system\n\nWork in progress...",
+  "body": "What's New?:\n Added Smoothing system for camera\n  -Three configurable sliders in the menu:\n  -Position: Positional movement smoothing\n  -Rotation: Rotation/orientation smoothing\n  -Snap to Object: Auto-adjustment to selected object /n /nNote: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.",
   "date": "2026-03-02"
 }
