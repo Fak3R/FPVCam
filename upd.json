@@ -1,6 +1,6 @@
 {
   "id": 4,
   "title": "<color=#ff3b22>Update</color>",
-  "body": "<b>What's New?:</b>\n\n✅Added Smoothing system for camera\n\n<size=80%>Three configurable sliders in the menu:</size>\n <size=50%>>Position: Positional movement smoothing\n >Rotation: Rotation/orientation smoothing\n >Snap to Object: Auto-adjustment to selected object</size>\n<size=10%><i>⚠️Note: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.</i></size>\n",
+  "body": "<size=80%><b>What's New?:</b></size>\n\n<size=80%>✅Added Smoothing system for camera</size>\n\n<size=80%>Three configurable sliders in the menu:</size>\n <size=50%>>Position: Positional movement smoothing\n >Rotation: Rotation/orientation smoothing\n >Snap to Object: Auto-adjustment to selected object</size>\n<color=#c7c7c7><size=30%><i>⚠️Note: The Snap slider doesn't work very well for now. It's recommended to keep it at 0. I'll keep investigating and improving its functionality in future versions.</i></size>\n</color>",
   "date": "2026-03-02"
 }
